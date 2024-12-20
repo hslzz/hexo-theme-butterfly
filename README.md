@@ -16,7 +16,6 @@
 
 
 安装此配置文件汉化版本：git clone git@github.com:hslzz/hexo-theme-butterfly.git
-📢 預覽: [Butterfly](https://butterfly.js.org/) / [CrazyWong](https://blog.crazywong.com/)
 
 📖 文檔: [中文](https://butterfly.js.org/posts/21cfbf15/) / [English](https://butterfly.js.org/en/posts/butterfly-docs-en-get-started/)
 
