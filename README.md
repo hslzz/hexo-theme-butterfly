@@ -51,7 +51,7 @@ git clone git@github.com:hslzz/hexo-theme-butterfly.git
 在博客根目錄裡
 
 ```powershell
-npm i hexo-theme-butterfly
+####npm i hexo-theme-butterfly
 ```
 
 ## ⚙ 應用主題
